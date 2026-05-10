@@ -4,9 +4,8 @@
 
 Foot drop is a condition where a person cannot lift the front part of their foot while walking, causing the toes to drag on the ground. This can result from:
 
-- Muscle weakness in the anterior tibialis muscle
 - Nerve damage affecting motor control
-- Neurological disorders (stroke, MS, Parkinson's, etc.)
+- Neurological disorders (stroke, etc.)
 - Spinal cord injury
 - Brain injury or trauma
 
@@ -28,11 +27,10 @@ Existing rehabilitation solutions include:
 - **Botulinum injection:** Temporary, requires repeated treatments
 
 These solutions have limitations:
-- High cost (medical devices are expensive)
+- High cost
 - Bulky or uncomfortable for daily wear
 - Limited accessibility and availability
 - Difficult to customize for individual needs
-- No real-time feedback or monitoring
 
 ---
 
@@ -55,13 +53,10 @@ Building Neurolift teaches:
 
 **Technical Skills:**
 - Embedded systems programming (Arduino)
-- Sensor integration and signal processing
 - Real-time decision-making logic
 - Wearable electronics design
-- I2C communication protocol
 
 **Domain Knowledge:**
-- Gait biomechanics basics
 - Assistive technology principles
 - Rehabilitation engineering concepts
 - IoT applications in healthcare
@@ -77,16 +72,10 @@ Building Neurolift teaches:
 - Provides hands-on learning platform
 
 ### What This System Does NOT Do
-- Provide medical-grade rehabilitation (educational only)
+- Provide medical-grade rehabilitation 
 - Replace professional medical devices
 - Treat neurological conditions
 - Provide sufficient force for independent walking without assistance
-
-### Target Users
-- BTech students (1st-2nd year)
-- Electronics and embedded systems enthusiasts
-- Rehabilitation engineering learners
-- Hackathon participants
 
 ---
 
